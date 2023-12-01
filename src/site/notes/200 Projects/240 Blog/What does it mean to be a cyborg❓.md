@@ -34,15 +34,3 @@ Embracing our cyborg nature means taking responsibility and ownership of the tec
 
 I hope that you join me as I struggle through on this journey of becoming an evolving cyborg.
 
-
-
-
-
-
-
-
-
-
-*This is currently a work in progress - please be patient as I finish it 😅*
-
-

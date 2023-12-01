@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/200-projects/240-blog/what-does-it-mean-to-be-a-cyborg/"}
+{"dg-publish":true,"dg-path":"What does it mean to be a cyborg❓.md","permalink":"/what-does-it-mean-to-be-a-cyborg/"}
 ---
 
 - Human machine hybrid

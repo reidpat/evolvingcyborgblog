@@ -18,7 +18,7 @@ One of our oldest technologies has been around long enough to affect the physica
 
 We use the technology of fire to cleanse our food of harmful bacteria so our stomach doesn't have to do it internally. We use knives to chop our food into small pieces so we don't need to spend as much time chewing. We've outsourced pieces of our digestion to external technology. And because we have been doing this for hundreds of thousands of years its had time to influence our biological evolution. *Without our technology, we are pitiful and weak compared to the rest of the animal kingdom - with it we are the most powerful beings.* 
 
-In the year 1900 many claimed that humans creating machines which could fly was a fantasy. In 1903 we took to the skies for the first time using powered flight. A mere 66 years later, we could fly so far and so fast that we escaped the gravitational well of our planet and set foot on the moon for the first time in the history of our planet.
+In the year 1900 many claimed that humans creating machines which could fly was a fantasy. In 1903 we took to the skies for the first time using powered flight. A mere 66 years later, we could fly so far and so fast that we escaped the gravitational well of our planet and set foot on the moon for the first time in the history of our world.
 
 *I wonder how many humans across the millennia have looked up at that bright light within the night sky and imagined what it would be like to visit.* 
 

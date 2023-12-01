@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/200-projects/240-blog/i-had-that-dream-again/"}
+{"dg-publish":true,"dg-path":"I had that dream again.md","permalink":"/i-had-that-dream-again/"}
 ---
 
 #nuclear #technology #apocalypse #dreams

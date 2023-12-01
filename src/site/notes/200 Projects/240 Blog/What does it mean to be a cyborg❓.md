@@ -2,6 +2,8 @@
 {"dg-publish":true,"dg-path":"What does it mean to be a cyborg❓.md","permalink":"/what-does-it-mean-to-be-a-cyborg/"}
 ---
 
+#evolution #technology #cyborgs 
+
 What do you imagine when you think of the word "cyborg"? 
 
 If you are like most people you probably have a vision of a human who has had parts of their body replaced by robotic components. 

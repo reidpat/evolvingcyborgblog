@@ -10,7 +10,7 @@ If you are arriving here for the first time, it would be helpful to start with [
 
 ## Recent Posts
 
-| File                                                                                              | date              |
+| File                                                                                              | Date              |
 | ------------------------------------------------------------------------------------------------- | ----------------- |
 | [[200 Projects/240 Blog/What does it mean to be a cyborg❓\|What does it mean to be a cyborg❓]] | December 01, 2023 |
 | [[200 Projects/240 Blog/I had that dream again\|I had that dream again]]                       | November 30, 2023 |

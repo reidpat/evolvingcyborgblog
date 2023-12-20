@@ -36,16 +36,16 @@ The fusion chain reaction now reaches its peak and temperatures exceed 15 millio
 With most of the nuclear fuel now consumed, the inwards pressure of the fission explosion is overtaken by the outwards pressure of the fusion explosion and the fireball begins to expand, quickly reaching several meters in diameter.
 
 **104-105 milliseconds**
-The fireball expands to 20 meters in diameter, cooling rapidly to a mere 500,000 degrees Celsius. Humans within several kilometres who are looking in the direction of the blast are rendered blind from the light produced by the explosion.
+The fireball expands to 20 meters in diameter, cooling rapidly to a mere 500,000 degrees Celsius. Humans within several kilometers who are looking in the direction of the blast are rendered blind from the light produced by the explosion.
 
 **110 milliseconds**
-The fireball is now 200m in diameter, incinerating any objects or people contained within. It is being closely followed by a high pressure shockwave emanating outwards. Severe burns on exposed skin are already being caused up to 1 kilometre away. 
+The fireball is now 200m in diameter, incinerating any objects or people contained within. It is being closely followed by a high pressure shockwave emanating outwards. Severe burns on exposed skin are already being caused up to 1 kilometer away. 
 
 **130 milliseconds**
-The fireball is now 400m wide. The shockwave expands further reaches it's peak pressure 500m away, completely flattening most buildings within the area.
+The fireball is now 400m wide. The shockwave expands further and reaches its peak pressure 500m away, completely flattening most buildings within the area.
 
 **150 milliseconds**
-The fireball continues expanding to a 700m diameter, with the shockwave traveling a full kilometre. The shockwave is still powerful enough to cause widespread destruction and death. 
+The fireball continues expanding to a 700m diameter, with the shockwave traveling a full kilometer. The shockwave is still powerful enough to cause widespread destruction and death. 
 
 **200 milliseconds**
 The fireball has stopped growing. The shockwave has travelled 2km, and while less powerful than before, still causes immense damage. 

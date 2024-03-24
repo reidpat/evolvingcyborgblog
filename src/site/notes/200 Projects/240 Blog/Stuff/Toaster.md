@@ -1,5 +1,5 @@
 ---
-{"location":"Kitchen","person_taking":null,"cost":"donation","want_back":"Yes","dg-publish":true,"dg-path":"Stuff/Toaster.md","permalink":"/stuff/toaster/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-path":"Stuff/Toaster.md","permalink":"/stuff/toaster/"}
 ---
 
 Needs a cleaning, but in good condition and works well. 

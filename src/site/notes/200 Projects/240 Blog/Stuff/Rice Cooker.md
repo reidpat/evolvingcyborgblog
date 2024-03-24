@@ -1,5 +1,5 @@
 ---
-{"location":"Kitchen","person_taking":null,"cost":null,"want_back":"maybe","dg-publish":true,"dg-path":"Stuff/Rice Cooker.md","permalink":"/stuff/rice-cooker/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-path":"Stuff/Rice Cooker.md","permalink":"/stuff/rice-cooker/"}
 ---
 
 A small rice cooker that's good for individuals or couples.

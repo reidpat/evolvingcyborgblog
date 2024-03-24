@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Stuff/HP Monitor.md","permalink":"/stuff/hp-monitor/"}
+{"location":"Living Room","person_taking":null,"cost":"donation","want_back":"no","dg-publish":true,"dg-path":"Stuff/HP Monitor.md","permalink":"/stuff/hp-monitor/","dgPassFrontmatter":true}
 ---
 
 1080p monitor with stand, power, and hdmi cord. I think it's 20" matte. 

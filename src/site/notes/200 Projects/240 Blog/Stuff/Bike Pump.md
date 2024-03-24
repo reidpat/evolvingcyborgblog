@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Stuff/Bike Pump.md","permalink":"/stuff/bike-pump/"}
+{"location":"Living Room","person_taking":null,"cost":"donation","want_back":"maybe","dg-publish":true,"dg-path":"Stuff/Bike Pump.md","permalink":"/stuff/bike-pump/","dgPassFrontmatter":true}
 ---
 
 Functional. Please take. 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Stuff/Stuff.md","permalink":"/stuff/stuff/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-path":"Stuff/Stuff.md","permalink":"/stuff/stuff/"}
 ---
 
 | File | location | cost | want_back | person_taking | file.outlinks |

@@ -1,5 +1,5 @@
 ---
-{"location":"Living Room","person_taking":null,"cost":"free","want_back":"no","dg-publish":true,"dg-path":"Stuff/Pillows and Blankets.md","permalink":"/stuff/pillows-and-blankets/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-path":"Stuff/Pillows and Blankets.md","permalink":"/stuff/pillows-and-blankets/"}
 ---
 
 More than what is in the picture. Please take. 

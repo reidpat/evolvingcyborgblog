@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Stuff/Water Pillow.md","permalink":"/stuff/water-pillow/"}
+{"location":"Alt Bedroom","person_taking":null,"cost":"free","want_back":"no","dg-publish":true,"dg-path":"Stuff/Water Pillow.md","permalink":"/stuff/water-pillow/","dgPassFrontmatter":true}
 ---
 
 A pillow filled with water. We live in the future. Good for someone who wants to precisely control the height of their pillow. 

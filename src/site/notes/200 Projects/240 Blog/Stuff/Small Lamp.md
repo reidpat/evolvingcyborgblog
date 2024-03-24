@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Stuff/Small Lamp.md","permalink":"/stuff/small-lamp/"}
+{"location":"Living Room","person_taking":null,"cost":"donation","want_back":"no","dg-publish":true,"dg-path":"Stuff/Small Lamp.md","permalink":"/stuff/small-lamp/","dgPassFrontmatter":true}
 ---
 
 Small lamp. Needs a bulb (could potentially be given with a hue smart bulb as part of the package)

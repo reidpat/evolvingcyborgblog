@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Stuff/Foam Roller.md","permalink":"/stuff/foam-roller/"}
+{"location":"Living Room","person_taking":null,"cost":"free","want_back":"no","dg-publish":true,"dg-path":"Stuff/Foam Roller.md","permalink":"/stuff/foam-roller/","dgPassFrontmatter":true}
 ---
 
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-path":"Stuff.md","permalink":"/stuff/"}
 ---
 
-Hi I'm Reid and I'm moving and need to get rid of all this stuff THIS WEEK!
+Hi I'm Reid and I have stuff. I'm moving and need to get rid of all this stuff THIS WEEK! Please take my stuff. 
 I live at 5638 Birney Ave (in Wesbrook by UBC)
 Text me at 778 888 7656 and let me know what you want and when you can come pick it up. 
 

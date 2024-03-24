@@ -1,5 +1,5 @@
 ---
-{"location":"Bedroom","person_taking":null,"cost":"donation","want_back":"Yes","dg-publish":true,"dg-path":"Stuff/Mattress.md","permalink":"/stuff/mattress/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-path":"Stuff/Mattress.md","permalink":"/stuff/mattress/"}
 ---
 
 Better Image to Come

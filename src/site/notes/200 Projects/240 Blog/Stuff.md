@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Stuff.md","permalink":"/stuff/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-path":"Stuff.md","permalink":"/stuff/"}
 ---
 
 

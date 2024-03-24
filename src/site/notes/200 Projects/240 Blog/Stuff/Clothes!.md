@@ -1,5 +1,5 @@
 ---
-{"location":"Alt Bedroom","person_taking":null,"cost":"free","want_back":"no","dg-publish":true,"dg-path":"Stuff/Clothes!.md","permalink":"/stuff/clothes/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-path":"Stuff/Clothes!.md","permalink":"/stuff/clothes/"}
 ---
 
 Too much to list right now, but if you are a s-m sized man you might find some stuff that fits. 

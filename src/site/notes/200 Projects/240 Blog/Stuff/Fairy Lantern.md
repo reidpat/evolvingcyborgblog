@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Stuff/Fairy Lantern.md","permalink":"/stuff/fairy-lantern/"}
+{"location":"Living Room","person_taking":null,"cost":"free","want_back":"maybe","dg-publish":true,"dg-path":"Stuff/Fairy Lantern.md","permalink":"/stuff/fairy-lantern/","dgPassFrontmatter":true}
 ---
 
 3D printed and designed as part of a halloween costume. Has light microchip inside. Could be transformed into a D&D dice tower? 

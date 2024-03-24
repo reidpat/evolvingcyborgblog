@@ -5,7 +5,7 @@
 
 | File                                                            | location | cost | want_back | person_taking |
 | --------------------------------------------------------------- | -------- | ---- | --------- | ------------- |
-| [[200 Projects/240 Blog/Stuff/Cooking Tools\|Cooking Tools]] | \-       | \-   | \-        | \-            |
+| [[200 Projects/240 Blog/Stuff/Cooking Tools\|Cooking Tools]] | Kitchen  | free | no        | \-            |
 
 { .block-language-dataview}
 Has things like wooden spoons, ladels, spatulas, etc...

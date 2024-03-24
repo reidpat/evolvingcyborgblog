@@ -1,5 +1,5 @@
 ---
-{"location":"Living Room","person_taking":null,"cost":"donation","want_back":"no","dg-publish":true,"dg-path":"Stuff/Dehumidifier.md","permalink":"/stuff/dehumidifier/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-path":"Stuff/Dehumidifier.md","permalink":"/stuff/dehumidifier/"}
 ---
 
 Good for the wet, mouldy, basements that are so common in vancouver. 

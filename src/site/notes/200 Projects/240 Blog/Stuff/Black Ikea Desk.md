@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Stuff/Black Ikea Desk.md","permalink":"/stuff/black-ikea-desk/"}
+{"location":"Living Room","person_taking":null,"cost":"donation","want_back":"no","dg-publish":true,"dg-path":"Stuff/Black Ikea Desk.md","permalink":"/stuff/black-ikea-desk/","dgPassFrontmatter":true}
 ---
 
 A little scraped up, but functional. 

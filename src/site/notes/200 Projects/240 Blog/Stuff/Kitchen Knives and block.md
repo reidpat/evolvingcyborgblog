@@ -1,5 +1,5 @@
 ---
-{"location":"Kitchen","person_taking":null,"cost":"free","want_back":"no","dg-publish":true,"dg-path":"Stuff/Kitchen Knives and block.md","permalink":"/stuff/kitchen-knives-and-block/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-path":"Stuff/Kitchen Knives and block.md","permalink":"/stuff/kitchen-knives-and-block/"}
 ---
 
 They are all dull and need sharpened. Wooden block

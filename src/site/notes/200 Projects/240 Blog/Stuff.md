@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"dg-path":"Stuff.md","permalink":"/stuff/"}
+{"dg-publish":true,"dg-path":"Stuff.md","permalink":"/stuff/","dgPassFrontmatter":true}
 ---
 
 
 | File                                                                                      | location     | cost     | image                                                                                                |
 | ----------------------------------------------------------------------------------------- | ------------ | -------- | ---------------------------------------------------------------------------------------------------- |
-| [[200 Projects/240 Blog/Stuff/Aeropress\|Aeropress]]                                   | \-           | \-       | <ul></ul>                                                                                            |
+| [[200 Projects/240 Blog/Stuff/Aeropress\|Aeropress]]                                   | Living Room  | donation | <ul><li>![[Attachments/Pasted image 20240324142138.png\\|Pasted image 20240324142138.png]]</li></ul> |
 | [[200 Projects/240 Blog/Stuff/Bed Frame\|Bed Frame]]                                   | Bedroom      | donation | <ul><li>![[Attachments/Pasted image 20240324125129.png\\|Pasted image 20240324125129.png]]</li></ul> |
 | [[200 Projects/240 Blog/Stuff/Bike Pump\|Bike Pump]]                                   | Living Room  | donation | <ul><li>![[Attachments/Pasted image 20240324133314.png\\|Pasted image 20240324133314.png]]</li></ul> |
 | [[200 Projects/240 Blog/Stuff/Black Ikea Desk\|Black Ikea Desk]]                       | Living Room  | donation | <ul><li>![[Attachments/Pasted image 20240324133918.png\\|Pasted image 20240324133918.png]]</li></ul> |

@@ -5,6 +5,7 @@
 Hi I'm Reid and I have stuff. I'm moving and need to get rid of all this stuff THIS WEEK! Please take my stuff. 
 I live at 5638 Birney Ave (in Wesbrook by UBC)
 Text me at 778 888 7656 and let me know what you want and when you can come and get it (pick up only). 
+If you take something you want/need, please also take something you don't want/need too. 
 Anything that says "donation" means exactly that. Name your price, free is often an option for that. 
 want_back is whether I may want the item back at an undetermined point in the future. I'm going to the US for the next 6 months and may be moving back after, in which case some things I might want back. 
 

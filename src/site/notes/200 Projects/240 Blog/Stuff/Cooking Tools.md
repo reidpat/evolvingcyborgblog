@@ -1,5 +1,5 @@
 ---
-{"location":null,"person_taking":null,"cost":null,"want_back":null,"dg-publish":true,"dg-path":"Stuff/Cooking Tools.md","permalink":"/stuff/cooking-tools/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-path":"Stuff/Cooking Tools.md","permalink":"/stuff/cooking-tools/"}
 ---
 
 Has things like wooden spoons, ladels, spatulas, etc...

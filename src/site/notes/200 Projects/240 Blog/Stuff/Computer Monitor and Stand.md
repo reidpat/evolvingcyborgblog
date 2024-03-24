@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Stuff/Computer Monitor and Stand.md","permalink":"/stuff/computer-monitor-and-stand/"}
+{"location":"Living Room","person_taking":null,"cost":"donation","want_back":"no","dg-publish":true,"dg-path":"Stuff/Computer Monitor and Stand.md","permalink":"/stuff/computer-monitor-and-stand/","dgPassFrontmatter":true}
 ---
 
 1080p Glossy display (asus brand). I think it's 20"?

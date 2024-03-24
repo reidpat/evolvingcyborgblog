@@ -18,7 +18,6 @@ want_back is whether I may want the item back at an undetermined point in the fu
 | [[200 Projects/240 Blog/Stuff/Bike Pump\|Bike Pump]]                                       | Living Room  | donation | maybe     |
 | [[200 Projects/240 Blog/Stuff/birkenstocks\|birkenstocks]]                                 | Alt Bedroom  | donation | no        |
 | [[200 Projects/240 Blog/Stuff/Black Ikea Desk\|Black Ikea Desk]]                           | Living Room  | donation | no        |
-| [[200 Projects/240 Blog/Stuff/Catan Board Game\|Catan Board Game]]                         | Alt Bedroom  | donation | no        |
 | [[200 Projects/240 Blog/Stuff/Clothes!\|Clothes!]]                                         | Alt Bedroom  | free     | no        |
 | [[200 Projects/240 Blog/Stuff/Computer Monitor and Stand\|Computer Monitor and Stand]]     | Living Room  | donation | no        |
 | [[200 Projects/240 Blog/Stuff/Cooking Tools\|Cooking Tools]]                               | Kitchen      | free     | no        |

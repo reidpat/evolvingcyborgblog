@@ -1,5 +1,5 @@
 ---
-{"location":null,"person_taking":null,"cost":null,"want_back":null,"dg-publish":true,"dg-path":"Stuff/Gloves.md","permalink":"/stuff/gloves/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-path":"Stuff/Gloves.md","permalink":"/stuff/gloves/"}
 ---
 
 Rubber oven gloves. 

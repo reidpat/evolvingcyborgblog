@@ -1,5 +1,5 @@
 ---
-{"location":"Alt Bedroom","person_taking":null,"cost":"free","want_back":"no","dg-publish":true,"dg-path":"Stuff/Halloween Decorations.md","permalink":"/stuff/halloween-decorations/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-path":"Stuff/Halloween Decorations.md","permalink":"/stuff/halloween-decorations/"}
 ---
 
 Lots in a bag. If you want one thing you HAVE to take it all though. 

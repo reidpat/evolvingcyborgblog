@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Stuff/Ergonomic Keyboard.md","permalink":"/stuff/ergonomic-keyboard/"}
+{"location":"Living Room","person_taking":null,"cost":"donation","want_back":"no","dg-publish":true,"dg-path":"Stuff/Ergonomic Keyboard.md","permalink":"/stuff/ergonomic-keyboard/","dgPassFrontmatter":true}
 ---
 
 Microsoft Ergonomic Keyboard

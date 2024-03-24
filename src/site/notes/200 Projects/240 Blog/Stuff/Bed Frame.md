@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Stuff/Bed Frame.md","permalink":"/stuff/bed-frame/"}
+{"location":"Bedroom","person_taking":null,"cost":"donation","want_back":"maybe","dg-publish":true,"dg-path":"Stuff/Bed Frame.md","permalink":"/stuff/bed-frame/","dgPassFrontmatter":true}
 ---
 
 Better picture will come later.

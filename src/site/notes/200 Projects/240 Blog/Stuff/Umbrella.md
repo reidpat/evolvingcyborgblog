@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Stuff/Umbrella.md","permalink":"/stuff/umbrella/"}
+{"location":"Front Closet","person_taking":null,"cost":"free","want_back":"no","dg-publish":true,"dg-path":"Stuff/Umbrella.md","permalink":"/stuff/umbrella/","dgPassFrontmatter":true}
 ---
 
 A little broken, but honestly will keep you dry. Good as a backup??

@@ -1,5 +1,5 @@
 ---
-{"location":"Living Room","person_taking":null,"cost":"donation","want_back":"maybe","dg-publish":true,"dg-path":"Stuff/Aeropress.md","permalink":"/stuff/aeropress/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-path":"Stuff/Aeropress.md","permalink":"/stuff/aeropress/"}
 ---
 
 Best effort required/coffee quality ratio in existence

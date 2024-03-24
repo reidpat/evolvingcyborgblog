@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Stuff/Spices.md","permalink":"/stuff/spices/"}
+{"location":"Kitchen","person_taking":null,"cost":"free","want_back":"no","dg-publish":true,"dg-path":"Stuff/Spices.md","permalink":"/stuff/spices/","dgPassFrontmatter":true}
 ---
 
 Will update on exact kinds. Much more in cupboard. 

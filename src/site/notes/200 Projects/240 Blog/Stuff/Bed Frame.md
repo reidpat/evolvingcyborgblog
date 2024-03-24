@@ -2,6 +2,12 @@
 {"dg-publish":true,"dg-path":"Stuff/Bed Frame.md","permalink":"/stuff/bed-frame/"}
 ---
 
+
+| File                                                    | location | cost     | want_back | person_taking |
+| ------------------------------------------------------- | -------- | -------- | --------- | ------------- |
+| [[200 Projects/240 Blog/Stuff/Bed Frame\|Bed Frame]] | Bedroom  | donation | maybe     | \-            |
+
+{ .block-language-dataview}
 Better picture will come later.
 [DHP Jett Junior Twin Metal Loft Bed, Silver : Amazon.ca: Home](https://www.amazon.ca/dp/B004DAYE28/ref=pe_3034960_233709270_TE_item)
 Metal bunk bed frame. Size Twin. Good for students living in small spaces.

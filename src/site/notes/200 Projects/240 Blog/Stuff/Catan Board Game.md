@@ -5,7 +5,7 @@
 
 | File                                                                  | location    | cost     | want_back | person_taking |
 | --------------------------------------------------------------------- | ----------- | -------- | --------- | ------------- |
-| [[200 Projects/240 Blog/Stuff/Catan Board Game\|Catan Board Game]] | Alt Bedroom | donation | no        | \-            |
+| [[200 Projects/240 Blog/Stuff/Catan Board Game\|Catan Board Game]] | Alt Bedroom | donation | no        | Kai           |
 
 { .block-language-dataview}
 Catan basic. Please take. 

@@ -3,9 +3,9 @@
 ---
 
 
-| File                                                                                          | location | cost     | want_back | person_taking |
-| --------------------------------------------------------------------------------------------- | -------- | -------- | --------- | ------------- |
-| [[200 Projects/240 Blog/Stuff/Google Nest Smart Speaker v1\|Google Nest Smart Speaker v1]] | \-       | donation | \-        | \-            |
+| File                                                                                          | location    | cost     | want_back | person_taking |
+| --------------------------------------------------------------------------------------------- | ----------- | -------- | --------- | ------------- |
+| [[200 Projects/240 Blog/Stuff/Google Nest Smart Speaker v1\|Google Nest Smart Speaker v1]] | Alt Bedroom | donation | no        | \-            |
 
 { .block-language-dataview}
 ![Pasted image 20240324143903.png](/img/user/Attachments/Pasted%20image%2020240324143903.png)

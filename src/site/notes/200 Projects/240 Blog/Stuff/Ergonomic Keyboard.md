@@ -3,9 +3,9 @@
 ---
 
 
-| File                                                                      | location    | cost     | want_back | person_taking |
-| ------------------------------------------------------------------------- | ----------- | -------- | --------- | ------------- |
-| [[200 Projects/240 Blog/Stuff/Ergonomic Keyboard\|Ergonomic Keyboard]] | Living Room | donation | no        | \-            |
+| File                                                                      | location    | cost     | person_taking |
+| ------------------------------------------------------------------------- | ----------- | -------- | ------------- |
+| [[200 Projects/240 Blog/Stuff/Ergonomic Keyboard\|Ergonomic Keyboard]] | Living Room | donation | \-            |
 
 { .block-language-dataview}
 Microsoft Ergonomic Keyboard

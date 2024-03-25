@@ -2,10 +2,9 @@
 {"dg-publish":true,"dg-path":"Stuff/Foam Roller.md","permalink":"/stuff/foam-roller/"}
 ---
 
-
-| File                                                        | location    | cost | want_back | person_taking |
-| ----------------------------------------------------------- | ----------- | ---- | --------- | ------------- |
-| [[200 Projects/240 Blog/Stuff/Foam Roller\|Foam Roller]] | Living Room | free | no        | \-            |
+| File                                                        | location    | cost | person_taking |
+| ----------------------------------------------------------- | ----------- | ---- | ------------- |
+| [[200 Projects/240 Blog/Stuff/Foam Roller\|Foam Roller]] | Living Room | free | \-            |
 
 { .block-language-dataview}
 

@@ -3,9 +3,9 @@
 ---
 
 
-| File                                                                | location    | cost     | want_back | person_taking |
-| ------------------------------------------------------------------- | ----------- | -------- | --------- | ------------- |
-| [[200 Projects/240 Blog/Stuff/Black Ikea Desk\|Black Ikea Desk]] | Living Room | donation | no        | \-            |
+| File                                                                | location    | cost     | person_taking |
+| ------------------------------------------------------------------- | ----------- | -------- | ------------- |
+| [[200 Projects/240 Blog/Stuff/Black Ikea Desk\|Black Ikea Desk]] | Living Room | donation | \-            |
 
 { .block-language-dataview}
 A little scraped up, but functional. 

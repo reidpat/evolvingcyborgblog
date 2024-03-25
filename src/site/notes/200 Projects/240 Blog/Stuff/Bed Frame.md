@@ -2,10 +2,9 @@
 {"dg-publish":true,"dg-path":"Stuff/Bed Frame.md","permalink":"/stuff/bed-frame/"}
 ---
 
-
-| File                                                    | location | cost     | want_back | person_taking |
-| ------------------------------------------------------- | -------- | -------- | --------- | ------------- |
-| [[200 Projects/240 Blog/Stuff/Bed Frame\|Bed Frame]] | Bedroom  | donation | maybe     | \-            |
+| File                                                    | location | cost     | person_taking |
+| ------------------------------------------------------- | -------- | -------- | ------------- |
+| [[200 Projects/240 Blog/Stuff/Bed Frame\|Bed Frame]] | Bedroom  | donation | \-            |
 
 { .block-language-dataview}
 Better picture will come later.

@@ -26,7 +26,6 @@ Anything that says "donation" means exactly that. Name your price, free is often
 | [[200 Projects/240 Blog/Stuff/Glass Bowl\|Glass Bowl]]                             | Kitchen      | free     |
 | [[200 Projects/240 Blog/Stuff/Halloween Decorations\|Halloween Decorations]]       | Alt Bedroom  | free     |
 | [[200 Projects/240 Blog/Stuff/Kitchen Knives and block\|Kitchen Knives and block]] | Kitchen      | free     |
-| [[200 Projects/240 Blog/Stuff/Lunchbox\|Lunchbox]]                                 | Alt Bedroom  | free     |
 | [[200 Projects/240 Blog/Stuff/Mop\|Mop]]                                           | Front Closet | free     |
 | [[200 Projects/240 Blog/Stuff/Oven Gloves\|Oven Gloves]]                           | Kitchen      | free     |
 | [[200 Projects/240 Blog/Stuff/Pillows and Blankets\|Pillows and Blankets]]         | Living Room  | free     |
@@ -36,7 +35,6 @@ Anything that says "donation" means exactly that. Name your price, free is often
 | [[200 Projects/240 Blog/Stuff/Shoe Rack (small)\|Shoe Rack (small)]]               | Living Room  | free     |
 | [[200 Projects/240 Blog/Stuff/Spices\|Spices]]                                     | Kitchen      | free     |
 | [[200 Projects/240 Blog/Stuff/Step Stool\|Step Stool]]                             | Kitchen      | free     |
-| [[200 Projects/240 Blog/Stuff/Toaster\|Toaster]]                                   | Kitchen      | donation |
 | [[200 Projects/240 Blog/Stuff/Umbrella\|Umbrella]]                                 | Front Closet | free     |
 | [[200 Projects/240 Blog/Stuff/Water Pillow\|Water Pillow]]                         | Alt Bedroom  | free     |
 

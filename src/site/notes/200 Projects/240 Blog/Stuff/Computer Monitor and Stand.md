@@ -5,7 +5,7 @@
 
 | File                                                                                      | location    | cost     | want_back | person_taking |
 | ----------------------------------------------------------------------------------------- | ----------- | -------- | --------- | ------------- |
-| [[200 Projects/240 Blog/Stuff/Computer Monitor and Stand\|Computer Monitor and Stand]] | Living Room | donation | no        | \-            |
+| [[200 Projects/240 Blog/Stuff/Computer Monitor and Stand\|Computer Monitor and Stand]] | Living Room | donation | no        | Rae           |
 
 { .block-language-dataview}
 1080p Glossy display (asus brand). I think it's 20"?

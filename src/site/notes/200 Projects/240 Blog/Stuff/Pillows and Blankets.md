@@ -3,9 +3,9 @@
 ---
 
 
-| File                                                                          | location    | cost | want_back | person_taking |
-| ----------------------------------------------------------------------------- | ----------- | ---- | --------- | ------------- |
-| [[200 Projects/240 Blog/Stuff/Pillows and Blankets\|Pillows and Blankets]] | Living Room | free | no        | \-            |
+| File                                                                          | location    | cost | person_taking |
+| ----------------------------------------------------------------------------- | ----------- | ---- | ------------- |
+| [[200 Projects/240 Blog/Stuff/Pillows and Blankets\|Pillows and Blankets]] | Living Room | free | \-            |
 
 { .block-language-dataview}
 More than what is in the picture. Please take. 

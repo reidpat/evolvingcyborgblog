@@ -2,10 +2,9 @@
 {"dg-publish":true,"dg-path":"Stuff/Step Stool.md","permalink":"/stuff/step-stool/"}
 ---
 
-
-| File                                                      | location | cost | want_back | person_taking |
-| --------------------------------------------------------- | -------- | ---- | --------- | ------------- |
-| [[200 Projects/240 Blog/Stuff/Step Stool\|Step Stool]] | Kitchen  | free | no        | \-            |
+| File                                                      | location | cost | person_taking |
+| --------------------------------------------------------- | -------- | ---- | ------------- |
+| [[200 Projects/240 Blog/Stuff/Step Stool\|Step Stool]] | Kitchen  | free | \-            |
 
 { .block-language-dataview}
 Small plastic step stool. Rubber on bottom of legs. Good for kitchens & short people. 

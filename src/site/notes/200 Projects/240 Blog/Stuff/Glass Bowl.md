@@ -3,9 +3,10 @@
 ---
 
 
-| File                                                      | location | cost | want_back | person_taking |
-| --------------------------------------------------------- | -------- | ---- | --------- | ------------- |
-| [[200 Projects/240 Blog/Stuff/Glass Bowl\|Glass Bowl]] | Kitchen  | free | no        | \-            |
+| File                                                      | location | cost | person_taking |
+| --------------------------------------------------------- | -------- | ---- | ------------- |
+| [[200 Projects/240 Blog/Stuff/Glass Bowl\|Glass Bowl]] | Kitchen  | free | \-            |
 
 { .block-language-dataview}
+Will update with better picture
 ![Pasted image 20240324132850.png](/img/user/Attachments/Pasted%20image%2020240324132850.png)

@@ -3,9 +3,9 @@
 ---
 
 
-| File                                                          | location    | cost     | want_back | person_taking |
-| ------------------------------------------------------------- | ----------- | -------- | --------- | ------------- |
-| [[200 Projects/240 Blog/Stuff/Dehumidifier\|Dehumidifier]] | Living Room | donation | no        | \-            |
+| File                                                          | location    | cost     | person_taking |
+| ------------------------------------------------------------- | ----------- | -------- | ------------- |
+| [[200 Projects/240 Blog/Stuff/Dehumidifier\|Dehumidifier]] | Living Room | donation | \-            |
 
 { .block-language-dataview}
 Good for the wet, mouldy, basements that are so common in vancouver. 

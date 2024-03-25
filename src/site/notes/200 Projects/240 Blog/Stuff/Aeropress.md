@@ -3,9 +3,9 @@
 ---
 
 
-| File                                                    | location    | cost     | want_back | person_taking |
-| ------------------------------------------------------- | ----------- | -------- | --------- | ------------- |
-| [[200 Projects/240 Blog/Stuff/Aeropress\|Aeropress]] | Living Room | donation | maybe     | \-            |
+| File                                                    | location    | cost     | person_taking |
+| ------------------------------------------------------- | ----------- | -------- | ------------- |
+| [[200 Projects/240 Blog/Stuff/Aeropress\|Aeropress]] | Living Room | donation | \-            |
 
 { .block-language-dataview}
 Best effort required/coffee quality ratio in existence

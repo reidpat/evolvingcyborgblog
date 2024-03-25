@@ -2,10 +2,9 @@
 {"dg-publish":true,"dg-path":"Stuff/birkenstocks.md","permalink":"/stuff/birkenstocks/"}
 ---
 
-
-| File                                                          | location    | cost     | want_back | person_taking |
-| ------------------------------------------------------------- | ----------- | -------- | --------- | ------------- |
-| [[200 Projects/240 Blog/Stuff/birkenstocks\|birkenstocks]] | Alt Bedroom | donation | no        | \-            |
+| File                                                          | location    | cost     | person_taking |
+| ------------------------------------------------------------- | ----------- | -------- | ------------- |
+| [[200 Projects/240 Blog/Stuff/birkenstocks\|birkenstocks]] | Alt Bedroom | donation | \-            |
 
 { .block-language-dataview}
 Will update with better picture. 

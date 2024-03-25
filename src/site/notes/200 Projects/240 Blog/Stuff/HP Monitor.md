@@ -5,7 +5,7 @@
 
 | File                                                      | location    | cost     | want_back | person_taking |
 | --------------------------------------------------------- | ----------- | -------- | --------- | ------------- |
-| [[200 Projects/240 Blog/Stuff/HP Monitor\|HP Monitor]] | Living Room | donation | no        | \-            |
+| [[200 Projects/240 Blog/Stuff/HP Monitor\|HP Monitor]] | Living Room | donation | no        | Rae           |
 
 { .block-language-dataview}
 1080p monitor with stand, power, and hdmi cord. I think it's 20" matte. 

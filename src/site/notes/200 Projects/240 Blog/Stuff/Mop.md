@@ -5,7 +5,7 @@
 
 | File                                        | location     | cost | want_back | person_taking |
 | ------------------------------------------- | ------------ | ---- | --------- | ------------- |
-| [[200 Projects/240 Blog/Stuff/Mop\|Mop]] | Front Closet | free | no        | \-            |
+| [[200 Projects/240 Blog/Stuff/Mop\|Mop]] | Front Closet | free | no        | Georgia       |
 
 { .block-language-dataview}
 Will need to use it once myself towards the end of the week, but please just take after that. 

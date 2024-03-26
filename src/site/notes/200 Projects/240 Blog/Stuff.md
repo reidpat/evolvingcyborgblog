@@ -13,9 +13,13 @@ If you take something you want/need, please also take something you don't want/n
 | ------------------------------------------------------------------------------- | ----------- | -------- |
 | [[200 Projects/240 Blog/Stuff/Bed Frame\|Bed Frame]]                         | Bedroom     | donation |
 | [[200 Projects/240 Blog/Stuff/Dehumidifier\|Dehumidifier]]                   | Living Room | donation |
+| [[200 Projects/240 Blog/Stuff/Dresser\|Dresser]]                             | Bedroom     | donation |
 | [[200 Projects/240 Blog/Stuff/Ergonomic Keyboard\|Ergonomic Keyboard]]       | Living Room | donation |
 | [[200 Projects/240 Blog/Stuff/Halloween Decorations\|Halloween Decorations]] | Alt Bedroom | free     |
+| [[200 Projects/240 Blog/Stuff/Laundry Basket\|Laundry Basket]]               | Bedroom     | donation |
 | [[200 Projects/240 Blog/Stuff/Pillows and Blankets\|Pillows and Blankets]]   | Living Room | free     |
+| [[200 Projects/240 Blog/Stuff/Space Heater\|Space Heater]]                   | Living Room | donation |
+| [[200 Projects/240 Blog/Stuff/Speakers\|Speakers]]                           | Living Room | free     |
 
 { .block-language-dataview}
 

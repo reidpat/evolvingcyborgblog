@@ -17,9 +17,9 @@ If you are arriving here for the first time, it would be helpful to start with [
 { .block-language-dataview}
 
 ## Check out my Travel Blog!
-| File                                                                                                                            | Date           | Tags      |
-| ------------------------------------------------------------------------------------------------------------------------------- | -------------- | --------- |
-| [[200 Projects/240 Blog/Travel Blog/Goodbye to Vancouver, Arrival in Palo Alto\|Goodbye to Vancouver, Arrival in Palo Alto]] | April 06, 2024 | <ul></ul> |
-| [[200 Projects/240 Blog/Travel Blog/Travel Blog\|Travel Blog]]                                                               | April 06, 2024 | <ul></ul> |
+| File                                                                                                                            | Date           |
+| ------------------------------------------------------------------------------------------------------------------------------- | -------------- |
+| [[200 Projects/240 Blog/Travel Blog/Goodbye to Vancouver, Arrival in Palo Alto\|Goodbye to Vancouver, Arrival in Palo Alto]] | April 06, 2024 |
+| [[200 Projects/240 Blog/Travel Blog/Travel Blog\|Travel Blog]]                                                               | April 06, 2024 |
 
 { .block-language-dataview}

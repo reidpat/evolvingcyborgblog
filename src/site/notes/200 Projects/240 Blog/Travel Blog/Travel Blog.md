@@ -9,6 +9,7 @@ It's been a while since I've had a travel blog, but I figured this would be a go
 
 | File                                                                                                                            | Date           |
 | ------------------------------------------------------------------------------------------------------------------------------- | -------------- |
+| [[200 Projects/240 Blog/Travel Blog/Hikes in Wunderlich County Park\|Hikes in Wunderlich County Park]]                       | April 08, 2024 |
 | [[200 Projects/240 Blog/Travel Blog/Settling in\|Settling in]]                                                               | April 07, 2024 |
 | [[200 Projects/240 Blog/Travel Blog/Goodbye to Vancouver, Arrival in Palo Alto\|Goodbye to Vancouver, Arrival in Palo Alto]] | April 06, 2024 |
 

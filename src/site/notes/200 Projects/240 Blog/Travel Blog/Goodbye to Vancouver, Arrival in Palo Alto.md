@@ -2,6 +2,7 @@
 {"dg-publish":true,"dg-path":"Travel Blog/Goodbye to Vancouver, Arrival in Palo Alto.md","permalink":"/travel-blog/goodbye-to-vancouver-arrival-in-palo-alto/"}
 ---
 
+#story
 I've been living in Vancouver since I initially left Saskatoon and went to UBC in the fall of 2014 - almost a decade. But recently things there have been feeling a little stale and I've been wanting something different. 
 
 I've always wanted to visit California and the Bay Area around San Francisco. It seems like so much of what I'm interested in comes from there - from technology to spirituality to alternate communities. So when I got an eviction notice for my place in Vancouver (because the landlord will be able to charge 2-3x as much as I was paying) it was a bit of blessing in disguise. At the same time I was offered a room through a friend in a coop house called Ithaka in Palo Alto. 

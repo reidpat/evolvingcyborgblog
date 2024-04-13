@@ -2,6 +2,7 @@
 {"dg-publish":true,"dg-path":"Projects/Reading Nest.md","permalink":"/projects/reading-nest/"}
 ---
 
+#project #art #
 I found a really nice spot that I like under a beautiful oak tree. 
 I decided to add lights and blankets to make it extra comfy.
 ![20240407_174029.jpg](/img/user/Attachments/20240407_174029.jpg)

@@ -2,6 +2,7 @@
 {"dg-publish":true,"dg-path":"Travel Blog/Hikes in Wunderlich County Park.md","permalink":"/travel-blog/hikes-in-wunderlich-county-park/"}
 ---
 
+#outdoors #hike
 California feels like an echo of BC. Some of the spots have very similar cedar trees, moss and ferns, while other spots feel distinctly different. Overall much dryer. 
 Gorgeous landscape overall - a different kind of beauty to BC. 
 

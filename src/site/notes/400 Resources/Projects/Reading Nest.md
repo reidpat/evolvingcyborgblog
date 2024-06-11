@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Projects/Reading Nest.md","permalink":"/projects/reading-nest/"}
+{"dg-publish":true,"Date":"2024-06-11","dg-path":"Projects/Reading Nest.md","permalink":"/projects/reading-nest/","dgPassFrontmatter":true}
 ---
 
 #project #art 

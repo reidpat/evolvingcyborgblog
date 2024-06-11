@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Projects/Projects.md","permalink":"/projects/projects/"}
+{"dg-publish":true,"dg-path":"Projects/Projects.md","permalink":"/projects/projects/","dgPassFrontmatter":true}
 ---
 
 A place to share some projects that I'm doing on the side for fun. There are many that exist, but haven't yet made it to this list. 

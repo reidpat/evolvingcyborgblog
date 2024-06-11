@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Writing/I had that dream again.md","permalink":"/writing/i-had-that-dream-again/"}
+{"dg-publish":true,"Date":"2023-12-20","dg-path":"Writing/I had that dream again.md","permalink":"/writing/i-had-that-dream-again/","dgPassFrontmatter":true}
 ---
 
 #nuclear #technology #apocalypse #dreams

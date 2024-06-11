@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/400-resources/evolving-cyborg-blog-site/"}
+{"dg-publish":true,"permalink":"/400-resources/evolving-cyborg-blog-site/","tags":["gardenEntry"]}
 ---
 
 # Evolving Cyborg

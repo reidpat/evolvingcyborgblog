@@ -12,10 +12,10 @@ Also a [[400 Resources/Blog/Blog\|Blog]] for my travels. And some of my side [[4
 
 ---
 ## Featured
-| File                                                                             | Date          | Tags                                                                                                                 |
-| -------------------------------------------------------------------------------- | ------------- | -------------------------------------------------------------------------------------------------------------------- |
-| [[400 Resources/Blog/Back on the EUC!\|Back on the EUC!]]                     | June 11, 2024 | <ul><li>#euc</li><li>#outdoors</li><li>#adventure</li><li>#video</li></ul>                                           |
-| [[400 Resources/Projects/Cactus Meditation Garden\|Cactus Meditation Garden]] | June 01, 2024 | <ul><li>#art</li><li>#landscaping</li><li>#garden</li><li>#nature</li><li>#meditation</li><li>#electronics</li></ul> |
+| File                                                                             | cover                                     | Date          | Tags                                                                                                                 |
+| -------------------------------------------------------------------------------- | ----------------------------------------- | ------------- | -------------------------------------------------------------------------------------------------------------------- |
+| [[400 Resources/Blog/Back on the EUC!\|Back on the EUC!]]                     | ![[Pasted image 20240611150133.png\|200]] | June 11, 2024 | <ul><li>#euc</li><li>#outdoors</li><li>#adventure</li><li>#video</li></ul>                                           |
+| [[400 Resources/Projects/Cactus Meditation Garden\|Cactus Meditation Garden]] | ![[20240607_134316.jpg\|200]]             | June 01, 2024 | <ul><li>#art</li><li>#landscaping</li><li>#garden</li><li>#nature</li><li>#meditation</li><li>#electronics</li></ul> |
 
 { .block-language-dataview}
 

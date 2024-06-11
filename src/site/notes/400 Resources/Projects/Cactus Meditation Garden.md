@@ -5,7 +5,6 @@
 #art #landscaping #garden #nature #meditation #electronics 
 # Result
 A gorgeous little space to sit in and meditate, complete with couch, lantern, and [[400 Resources/Projects/Slack line\|Slack line]]. I'm hoping to add gravel/sand to the area to allow good drainage for the cacti (the dirt here is something like baked clay - not very good as the top soil layer for cacti) as well as add some more cacti to the area. Maybe even rake the gravel into nice patterns like you would find in a rock garden. 
-![20240607_134342.jpg](/img/user/20240607_134342.jpg)
 ![20240607_134316.jpg](/img/user/20240607_134316.jpg)
 # Process
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Settling in.md","permalink":"/blog/settling-in/"}
+{"dg-publish":true,"permalink":"/400-resources/blog/settling-in/"}
 ---
 
 #short

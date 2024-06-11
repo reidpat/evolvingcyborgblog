@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Goodbye to Vancouver, Arrival in Palo Alto.md","permalink":"/blog/goodbye-to-vancouver-arrival-in-palo-alto/"}
+{"dg-publish":true,"Date":"2024-04-05","dg-path":"Blog/Goodbye to Vancouver, Arrival in Palo Alto.md","permalink":"/blog/goodbye-to-vancouver-arrival-in-palo-alto/","dgPassFrontmatter":true}
 ---
 
 #story

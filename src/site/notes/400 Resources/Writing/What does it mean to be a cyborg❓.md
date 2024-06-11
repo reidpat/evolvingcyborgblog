@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Writing/What does it mean to be a cyborg❓.md","permalink":"/writing/what-does-it-mean-to-be-a-cyborg/"}
+{"dg-publish":true,"permalink":"/400-resources/writing/what-does-it-mean-to-be-a-cyborg/"}
 ---
 
 #evolution #technology #cyborgs 

@@ -2,6 +2,7 @@
 {"dg-publish":true,"dg-path":"Projects/Cactus Meditation Garden.md","permalink":"/projects/cactus-meditation-garden/"}
 ---
 
+#art #landscaping #garden #nature #meditation #electronics 
 # Result
 A gorgeous little space to sit in and meditate, complete with couch, lantern, and [[400 Resources/Projects/Slack line\|Slack line]]. I'm hoping to add gravel/sand to the area to allow good drainage for the cacti (the dirt here is something like baked clay - not very good as the top soil layer for cacti) as well as add some more cacti to the area. Maybe even rake the gravel into nice patterns like you would find in a rock garden. 
 ![20240607_134342.jpg](/img/user/20240607_134342.jpg)
@@ -27,7 +28,7 @@ Found a neat little shrine type thing that no one was using. So naturally I wire
 
 ![20240611_143546.jpg|300](/img/user/20240611_143546.jpg)![20240611_143601.jpg|300](/img/user/20240611_143601.jpg)
 
-Some strategic placement of rocks and statues turns it into a little shrine
+Some artistic arranging of rocks and statues turns it into a little shrine
 ![20240611_143724.jpg](/img/user/20240611_143724.jpg)
 
 ## Adding Couch

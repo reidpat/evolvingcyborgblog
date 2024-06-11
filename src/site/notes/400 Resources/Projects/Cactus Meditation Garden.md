@@ -31,8 +31,8 @@ Found a neat little shrine type thing that no one was using. So naturally I wire
 Some artistic arranging of rocks and statues turns it into a little shrine
 ![20240611_143724.jpg](/img/user/20240611_143724.jpg)
 
-## Adding Couch
+## Adding a Couch
 ![20240611_144456.jpg](/img/user/20240611_144456.jpg)
 
-Some wooden palates, a tarp, and some strategically placed velcro help protect it from the elements.
+Some wooden palates, a tarp, and a little strategically placed velcro help protect it from the elements.
 ![20240611_144522.jpg|200](/img/user/20240611_144522.jpg)![20240611_144604.jpg|200](/img/user/20240611_144604.jpg)![20240611_144610.jpg|200](/img/user/20240611_144610.jpg)

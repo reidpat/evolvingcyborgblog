@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/400-resources/blog/blog/"}
+{"dg-publish":true,"dg-path":"Blog/Blog.md","permalink":"/blog/blog/"}
 ---
 
 It's been a while since I've had a travel blog, but I figured this would be a good time to start one up again. I recently moved from Vancouver to Palo Alto, and this is a good way for me to do some journaling and writing where I can share it with friends and family. 

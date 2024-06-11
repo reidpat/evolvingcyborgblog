@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/400-resources/blog/goodbye-to-vancouver-arrival-in-palo-alto/"}
+{"dg-publish":true,"dg-path":"Blog/Goodbye to Vancouver, Arrival in Palo Alto.md","permalink":"/blog/goodbye-to-vancouver-arrival-in-palo-alto/"}
 ---
 
 #story

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Starting Writing Again.md","permalink":"/blog/starting-writing-again/"}
+{"dg-publish":true,"Date":"2024-06-11","dg-path":"Blog/Starting Writing Again.md","permalink":"/blog/starting-writing-again/","dgPassFrontmatter":true}
 ---
 
 #update #life #tech 

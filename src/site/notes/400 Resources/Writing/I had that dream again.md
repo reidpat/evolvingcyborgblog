@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Writing/I had that dream again.md","permalink":"/writing/i-had-that-dream-again/"}
+{"dg-publish":true,"permalink":"/400-resources/writing/i-had-that-dream-again/"}
 ---
 
 #nuclear #technology #apocalypse #dreams

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Back on the EUC!.md","permalink":"/blog/back-on-the-euc/"}
+{"dg-publish":true,"Date":"2024-06-11","featured":true,"cover":"![Pasted image 20240611150133.png|200](/img/user/Pasted%20image%2020240611150133.png)","dg-path":"Blog/Back on the EUC!.md","permalink":"/blog/back-on-the-euc/","dgPassFrontmatter":true}
 ---
 
 #euc #outdoors #adventure #video

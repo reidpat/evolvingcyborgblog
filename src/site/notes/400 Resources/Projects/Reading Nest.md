@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/400-resources/projects/reading-nest/"}
+{"dg-publish":true,"dg-path":"Projects/Reading Nest.md","permalink":"/projects/reading-nest/"}
 ---
 
 #project #art 

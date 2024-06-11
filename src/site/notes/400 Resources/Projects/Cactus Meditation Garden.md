@@ -8,6 +8,7 @@ A gorgeous little space to sit in and meditate, complete with couch, lantern, an
 ![20240607_134316.jpg](/img/user/20240607_134316.jpg)
 # Process
 
+## Cleaning the Space
 Ithaka has some beautiful spaces in it. Unfortunately we also have a lot of trees which like to drop their leaves everywhere and make these spaces hard to use if someone isn't actively keeping them clear of leaves. 
 ![20240611_141444.jpg|300](/img/user/20240611_141444.jpg)
 Oak leaves in particular are very sharp and pokey - not fun to exist in. 
@@ -20,7 +21,7 @@ Area was completely filled with weeds and leaves. I ended up taking out over 6 f
 
 Work in Progress…
 ![20240518_165002.jpg](/img/user/20240518_165002.jpg)
-
+## Lantern Shrine
 Found a neat little shrine type thing that no one was using. So naturally I wired up an LED inside and turned it into a beautiful lantern.
 ![20240429_151811.jpg|300](/img/user/20240429_151811.jpg)![20240611_143538.jpg|300](/img/user/20240611_143538.jpg)
 
@@ -28,3 +29,9 @@ Found a neat little shrine type thing that no one was using. So naturally I wire
 
 Some strategic placement of rocks and statues turns it into a little shrine
 ![20240611_143724.jpg](/img/user/20240611_143724.jpg)
+
+## Adding Couch
+![20240611_144456.jpg](/img/user/20240611_144456.jpg)
+
+Some wooden palates, a tarp, and some strategically placed velcro help protect it from the elements.
+![20240611_144522.jpg|200](/img/user/20240611_144522.jpg)![20240611_144604.jpg|200](/img/user/20240611_144604.jpg)![20240611_144610.jpg|200](/img/user/20240611_144610.jpg)

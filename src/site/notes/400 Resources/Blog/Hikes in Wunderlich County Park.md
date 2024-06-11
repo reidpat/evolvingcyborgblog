@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Blog/Hikes in Wunderlich County Park.md","permalink":"/blog/hikes-in-wunderlich-county-park/"}
+{"dg-publish":true,"permalink":"/400-resources/blog/hikes-in-wunderlich-county-park/"}
 ---
 
 #outdoors #hike

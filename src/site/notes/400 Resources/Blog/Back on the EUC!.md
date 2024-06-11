@@ -2,6 +2,7 @@
 {"dg-publish":true,"dg-path":"Blog/Back on the EUC!.md","permalink":"/blog/back-on-the-euc/"}
 ---
 
+#euc #outdoors #adventure #video
 After breaking my collarbone at the beginning of March, I'm officially back riding electric unicycles!
 
 I started riding EUCs about a year ago now and it's quickly become a foundational part of my personality 😅

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Evolving Cyborg Home.md","permalink":"/evolving-cyborg-home/","tags":["gardenEntry"]}
+{"dg-publish":true,"dg-home":true,"dg-path":"Evolving Cyborg Home.md","permalink":"/evolving-cyborg-home/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 # Evolving Cyborg

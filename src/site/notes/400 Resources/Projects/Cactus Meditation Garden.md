@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Projects/Cactus Meditation Garden.md","permalink":"/projects/cactus-meditation-garden/"}
+{"dg-publish":true,"featured":true,"Date":"2024-06-01","cover":"![20240607_134316.jpg|200](/img/user/20240607_134316.jpg)","dg-path":"Projects/Cactus Meditation Garden.md","permalink":"/projects/cactus-meditation-garden/","dgPassFrontmatter":true}
 ---
 
 #art #landscaping #garden #nature #meditation #electronics 

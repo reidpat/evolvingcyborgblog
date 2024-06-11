@@ -10,4 +10,4 @@ Riding them makes you feel like you unlocked the superpower of flying; There's s
 Here's a video of me riding through the Stanford Hills at sunset. Truly beautiful.
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fDnNfurC_8Y?si=bSFMcnFDFrjlwJiX" title="EUC Ride" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/fDnNfurC_8Y?si=bSFMcnFDFrjlwJiX" title="EUC Ride" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
